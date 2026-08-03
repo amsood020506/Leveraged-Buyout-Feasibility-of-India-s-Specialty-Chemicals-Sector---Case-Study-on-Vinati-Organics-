@@ -10,8 +10,8 @@ Vinati Organics is real, but the LBO is not — the Company has never been the s
 
 | File | Description |
 |---|---|
-| `Vinati_LBO_Model.xlsx` | Full 5-year LBO model — Sources & Uses, operating projections, debt schedule, returns waterfall, and two-way sensitivity tables (Data Tables) |
-| `Vinati_LBO_Report.docx` | Investment memorandum: financing environment for Indian LBOs, sector thesis, transaction structure, operating model, returns analysis, sensitivity analysis, and final recommendation |
+| `final lbo for vinati.xlsx` | Full 5-year LBO model — Sources & Uses, operating projections, debt schedule, returns waterfall, and two-way sensitivity tables (Data Tables) |
+| `lbo project.docx` | Investment memorandum: financing environment for Indian LBOs, sector thesis, transaction structure, operating model, returns analysis, sensitivity analysis, and final recommendation |
 
 ## Methodology
 

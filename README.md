@@ -1,0 +1,2 @@
+# Leveraged-Buyout-Feasibility-of-India-s-Specialty-Chemicals-Sector---Case-Study-on-Vinati-Organics-
+Hypothetical LBO model for Vinati Organics, a debt-free Indian speciality chemicals compounder, testing whether a richly-valued public company can support leveraged acquisition. Year 0 uses real FY26 financials; capital structure and 5-year projections are hypothetical. Includes returns and sensitivity analysis on multiple, growth, and leverage.
